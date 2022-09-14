@@ -33,7 +33,7 @@ let map = L.map('mapid', {
 let baseMaps = {
   "Streets": streets,
   "Satellite": satelliteStreets, 
-  "Dark Theme": darkStreets
+  "Dark Streets": darkStreets
 };
 
 // 1. Add a 3rd layer group for the major earthquake data.
